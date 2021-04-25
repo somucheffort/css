@@ -8,10 +8,15 @@ Some CSS rules
 <!-- or use .sass -->
 ```
 
+<!--
+:white_check_mark: = ✅
+:x: = ❌
+-->
+
 # what you can import
 
-| name of css   | *.css              | *.sass             |
-|---------------|--------------------|--------------------|
-| main          | :white_check_mark: | :white_check_mark: |
-| jetbrainsmono | :x:                | :x:                |
-| flex          | :x:                | :x:                |
+| name of .css  | *.css | *.sass |
+|---------------|-------|--------|
+| main          | ✅     | ✅      |
+| jetbrainsmono | ❌     | ❌      |
+| flex          | ❌     | ❌      |
