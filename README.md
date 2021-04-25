@@ -18,5 +18,5 @@ Some CSS rules
 | name of .css  | *.css | *.sass |
 |---------------|-------|--------|
 | main          | ✅     | ✅      |
-| jetbrainsmono | ❌     | ❌      |
+| jetbrainsmono | ✅     | ✅      |
 | flex          | ❌     | ❌      |
